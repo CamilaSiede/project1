@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* BODY */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+/* HEADER */
+
+.header{
+    margin-top: 10px;
+}
+
+.header-nav__link{
+    padding-right: 10px;
+}
+.header-presentation__title{
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+/* MAIN */
+
+.main-slogan__img{
+    margin-top: 50px;
+}
+
+
+/* FOOTER */
+
+.footer{
+    margin-top:250px;
+    background-color: #C1AC95;
+    display: inline-block;
+    height: 100%;
+}
+
+
+/* PSEUDOCLASSES */
+
+.header-nav__link:link{
+    text-decoration: none;
+    color: black;
+}
+.header-nav__link:visited{
+    color: black;
+}
