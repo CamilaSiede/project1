@@ -34,15 +34,13 @@ input[type="email"] {
 
 .contact-form__button {
     background-color: #C9E4C5;
-    width: 60px;
+    width: 61px;
     height: 38px;
     position: relative;
     top: 25px;
     right: 50px;
   
 }
-
-
 
 .footer{
     margin-top: 630px;
