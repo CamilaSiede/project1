@@ -32,3 +32,10 @@ body{
 .instructions h3{
     padding-left: 30px;
 }
+
+.footer{
+    margin-top:320px;
+    background-color: #C1AC95;
+    display: inline-block;
+    height: 100%;
+}

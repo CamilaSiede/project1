@@ -12,3 +12,10 @@ body{
 .title{
     font-size: 37px;
 }
+
+.footer{
+    margin-top: 630px;
+    background-color: #C1AC95;
+    display: inline-block;
+    height: 100%;
+}
